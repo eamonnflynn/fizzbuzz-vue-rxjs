@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # fizzbuzz-vue-rxjs
 
 ## Project setup
@@ -23,6 +22,5 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# fizzbuzz-vue-rxjs
->>>>>>> parent of 497c4e3... Revert "Initial commit"
+
+
